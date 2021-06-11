@@ -1,0 +1,37 @@
+body
+{
+    text-align: center;
+    background-image: url("img.jpg");
+    background-size: cover;
+
+    line-height: 1;
+}
+
+.jumbotron{
+    color: white;
+    }
+
+    form{
+        height: 70px;
+        margin-top: 48px;
+        text-align: center;
+    }
+    .p1{
+        color: white;
+    }
+    .p2{
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+        text-size-adjust: 20;
+    }
+    .heading{
+        margin-top: 5%;
+        font-family: 'ubuntu',sans-serif;
+        text-align: center;
+    }
+    .sub-heading{
+        font-family: 'Quicksand',sans-serif;
+    }
+    .heading{
+        color: white;
+    }
